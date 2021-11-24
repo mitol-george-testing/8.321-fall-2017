@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "46846993-4fc6-6fdb-9785-eb94547364e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Quantum Theory I",
+  "course_description": "This is the first semester of a two-semester graduate-level subject on quantum theory, stressing principles. Quantum theory explains the nature and behavior of matter and energy on the atomic and subatomic level. Topics include Fundamental Concepts, Quantum Dynamics, Composite Systems, Symmetries in Quantum Mechanics, and Approximation Methods.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.321",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
